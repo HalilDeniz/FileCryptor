@@ -108,6 +108,18 @@ python filecryptor.py --encrypt --file file1.txt file2.txt file3.txt --password 
 This command encrypts multiple files `file1.txt`, `file2.txt`, and `file3.txt` with the same password "sharedpassword" in a single encryption operation.
 
 These examples demonstrate different usage scenarios for the FileCryptor program, showcasing its flexibility and functionality for file encryption and decryption tasks.
+
+## Contributing
+Contributions are welcome! To contribute to FileCryptor, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Open a pull request in the main repository.
+
+
+
 ## Contact
 
 If you have any questions, comments, or suggestions about Tool Name, please feel free to contact me:
